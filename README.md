@@ -23,10 +23,3 @@ This implementation in Python extends the algorithm's capabilities to handle up 
 - **Programming Language**: Python
 - **Key Libraries**: None (Standard Python libraries are sufficient)
 
----
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   https://github.com/johnrheyugates/QM-Algorithm/blob/1e6afb681537648a5a66f3ecdd769178c62cc8cd/Quine-McCluskey%20Algorithm.exe 
